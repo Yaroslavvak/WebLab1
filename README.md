@@ -6,4 +6,4 @@
 
 Загальне завдання: розробити статичні Web-сторінки додатку та перевірити коректне їх відображення на екранах різного розміру.
 
-Посилання на звіт на Google Drive: https://drive.google.com/drive/folders/1iZrRe_v5jTohhfiUesBTLz4GU-IO0O2Q
+Посилання на звіт (Google Drive): https://drive.google.com/drive/folders/1iZrRe_v5jTohhfiUesBTLz4GU-IO0O2Q
